@@ -1,3 +1,5 @@
+![UK Road Accident Analysis Dashboard ](Tableau_Dashboard_Screenshot-250kb.jpeg)
+
 📊 Dashboard Preview
 <p align="center">
   <img src="Tableau_Dashboard_Screenshot-250kb.jpeg" alt="UK Road Accident Analysis Tableau Dashboard" width="100%"/>
