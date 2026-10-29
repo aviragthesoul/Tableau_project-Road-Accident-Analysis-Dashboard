@@ -1,3 +1,4 @@
+📊 Dashboard Preview
 <p align="center">
   <img src="Tableau_Dashboard_Screenshot.png" alt="UK Road Accident Analysis Tableau Dashboard" width="100%"/>
 </p>
@@ -12,11 +13,6 @@ An interactive Tableau dashboard analyzing UK road accidents from 2019 to 2022, 
   <img src="https://img.shields.io/badge/Period-2019--2022-1F77B4?style=for-the-badge" alt="Analysis Period"/>
   <img src="https://img.shields.io/badge/Records-660K%2B-6A5ACD?style=for-the-badge" alt="Dataset Size"/>
 
-</p>
-📊 Dashboard Preview
-
-<p align="center">
-  <img src="Tableau_Dashboard_Screenshot.png" alt="UK Road Accident Analysis Tableau Dashboard" width="100%"/>
 </p>
 
 🔗 Live Dashboard: Explore the Interactive Dashboard on Tableau Public
