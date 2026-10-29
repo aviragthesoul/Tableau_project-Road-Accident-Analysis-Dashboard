@@ -13,7 +13,7 @@ An interactive Tableau dashboard analyzing UK road accidents from 2019 to 2022, 
 📊 Dashboard Preview
 
 <p align="center">
-  <img src="images/dashboard.png" alt="UK Road Accident Analysis Tableau Dashboard" width="100%"/>
+  <img src="Tableau_Dashboard_Screenshot.png" alt="UK Road Accident Analysis Tableau Dashboard" width="100%"/>
 </p>
 
 🔗 Live Dashboard: Explore the Interactive Dashboard on Tableau Public
